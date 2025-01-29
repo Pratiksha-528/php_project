@@ -57,7 +57,7 @@ $conn->close();
 
     <!-- Login Form -->
     <form action="reset_login.php" method="POST">
-        <label for="username">Username:</label>
+        <label for="username">Username give:</label>
         <input type="text" id="username" name="username" required><br><br>
 
         <label for="password">Password:</label>
