@@ -23,7 +23,7 @@
 <body>
     <h1>Login</h1>
     <form action="login2.php" method="POST">
-        <label for="username">Username</label>
+        <label for="username">Username give</label>
         <input type="text" name="username" id="username" required><br><br>
 
         <label for="password">Password</label>
